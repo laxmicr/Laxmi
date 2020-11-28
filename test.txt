@@ -2,3 +2,7 @@ line 1
 
 new line 2 added from newb1 branch
 new line added from newb2 branch
+
+line 2 
+line 3
+
